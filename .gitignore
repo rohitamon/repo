@@ -1,0 +1,9 @@
+# Config files
+.env
+.env.local
+ping.h
+/.vscode
+
+# Large folders
+/node_modules
+/vendor
