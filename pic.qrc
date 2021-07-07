@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>JanyuLogo.png</file>
+        <file>down-arrow.png</file>
+        <file>left-arrow.png</file>
+        <file>right-arrow.png</file>
+        <file>up-arrow.png</file>
+        <file>drdo_logo.png</file>
+        <file>Medi_doot_logo_1.jpg</file>
+        <file>Medi_doot_logo.jpg</file>
+        <file>UV_di_3d.jpeg</file>
+        <file>CSIA-550x250.jpg</file>
+        <file>Uv_tower_with_inverter.jpeg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
